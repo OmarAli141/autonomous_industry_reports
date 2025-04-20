@@ -50,6 +50,6 @@ This design enables **scalability**, **maintainability**, and **minimal reproces
 ## Sample Output
 
 <p align="center">
-  <img src="Workflow,Screenshots/output1.jpg" alt="Sample Output" width="700"/>
+  <img src="Workflow,Screenshots/output1.png" alt="Sample Output" width="700"/>
 </p>
 
