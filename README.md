@@ -44,6 +44,5 @@ The system is composed of modular components that communicate in sequence to del
    - Named entity recognition (companies, products)
 5. **Competitor Extractor**: Identifies and ranks key players.
 6. **Report Generator**: Builds a structured, multi-section report using AI models.
-7. **Formatter**: Exports the report in `.docx` or `.md` formats.
 
 This design enables **scalability**, **maintainability**, and **minimal reprocessing overhead** by separating document retrieval and AI-powered analysis.
